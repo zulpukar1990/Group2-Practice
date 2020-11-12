@@ -5,5 +5,7 @@ public class Main {
         System.out.println("How are you?");
 
         System.out.println("New branch");
+        System.out.println("New branch2");
+
     }
 }
